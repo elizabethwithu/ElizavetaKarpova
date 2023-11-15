@@ -9,3 +9,5 @@
 <a href="https://www.postgresql.org/" title="PostgreSQL">![image](https://github.com/elizabethwithu/java-shareit/assets/117889272/9a736b02-c73d-49bd-a56d-4e251095df33)</a>
 <a href="https://www.jetbrains.com/idea/download/?section=mac" title="IntelliJ IDEA">![image](https://github.com/elizabethwithu/java-shareit/assets/117889272/f02b53c2-a177-4607-890d-85e96386d512)</a>
 <a href="https://hibernate.org/" title="Hibernate">![image](https://github.com/elizabethwithu/java-shareit/assets/117889272/e25da839-b216-4918-8669-8b6e12c8da9e)</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethwithu)](https://github.com/anuraghazra/github-readme-stats)
